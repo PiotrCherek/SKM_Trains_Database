@@ -1,0 +1,10 @@
+DROP TABLE Stop_Times;
+DROP TABLE Tickets;
+DROP TABLE Route_Stops;
+DROP TABLE Runs;
+DROP TABLE Planned_Schedules;
+DROP TABLE SKM_Routes;
+DROP TABLE Base_Prices;
+DROP TABLE Discounts;
+DROP TABLE Passengers;
+DROP TABLE Stations;
